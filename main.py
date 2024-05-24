@@ -18,7 +18,7 @@ import anvil.users
 import uuid
 from anvil.tables import app_tables
 
-anvil.server.connect("server_KNJ6I7XXQILVAJOW6GCNKTOZ-Q5FU3BNWECDMTS23")
+anvil.server.connect("server_WTQG27CU55CCGZCE4I4KFGN4-Q5FU3BNWECDMTS23")
 
 
 #this is for the LoginForm and the SignUpForm
